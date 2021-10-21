@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jatinmark
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me mail to jatinchoudhary326@gmail.com
 
 <!---
